@@ -12,7 +12,7 @@ keep_alive()
 # Insert your Telegram bot token here
 bot = telebot.TeleBot('7419595455:AAGZstA7H7FZakPGw9gtVbF9THWbI3bqZYQ')
 # Admin user IDs
-admin_id = {"907345225 "}
+admin_id = {"907345225"}
 
 # Files for data storage
 USER_FILE = "users.json"
